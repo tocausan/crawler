@@ -1,0 +1,9 @@
+{
+	"author": "Tomas Caufriez",
+	"copyright": "tocausan",
+	"name": "searchEngine",
+	"title": "searchEngine",
+	"description": "Search engine project based on a school project.",
+	"keywords": ["searchengine", "php"],
+	"license": "MIT"
+}
